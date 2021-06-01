@@ -1,4 +1,4 @@
-# [Hi 👋 I am Shivam Rohilla](https://www.highlifedoor.com/) :man_technologist:
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width: 100%; user-select: auto;"> I am Shivam Rohilla](https://www.highlifedoor.com/) :man_technologist:
 
 
 ### Reach Me :-
@@ -13,22 +13,13 @@
 - Passionate for learning & exploring new Tech. I write [Tech and Fitness Blogs](https://www.highlifedoor.com/).
 - I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
 
+## My Github Stats
+[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamRohilllaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# Most Starred Repo's:-
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamRohilllaa&repo=E-learning-Django-)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamRohilllaa&repo=tshirt-store)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-
-
-<!--
-**ShivamRohilllaa/ShivamRohilllaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
