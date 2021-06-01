@@ -14,12 +14,12 @@
 - I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
 
 ## My Github Stats
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamRohilllaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamRohilllaa&show_icons=true&theme=radical)
 
 
 # Most Starred Repo's:-
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamRohilllaa&repo=E-learning-Django-)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamRohilllaa&repo=tshirt-store)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamRohilllaa&repo=E-learning-Django-) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamRohilllaa&repo=tshirt-store)
 
 
 
