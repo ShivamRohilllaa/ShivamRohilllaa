@@ -1,7 +1,6 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width: 100%; user-select: auto;"> I am Shivam Rohilla](https://www.highlifedoor.com/) :man_technologist:
 
-![Blue and White Architect LinkedIn Banner (1)](https://user-images.githubusercontent.com/59178005/120302142-378ca780-c2eb-11eb-80f5-6bb5d4e3576a.png)
-
+![Blue and White Architect LinkedIn Banner (3)](https://user-images.githubusercontent.com/59178005/120303534-8e46b100-c2ec-11eb-91ac-6b48e6c5cece.png)
 ### Reach Me :-
 [![linkedin (3)](https://user-images.githubusercontent.com/59178005/120276459-5598de80-c2d0-11eb-866b-5d3edc680206.png)](https://www.linkedin.com/in/shivamrohillaa/) &nbsp;  [![world-wide-web (2)](https://user-images.githubusercontent.com/59178005/120277162-54b47c80-c2d1-11eb-89ae-fb08e2f0146c.png)](https://shivamrohilla.herokuapp.com/) &nbsp;  [![blog (1)](https://user-images.githubusercontent.com/59178005/120277587-ddcbb380-c2d1-11eb-8c0b-db6446e9d38b.png)](https://dev.to/shivamrohilllaa)
 
