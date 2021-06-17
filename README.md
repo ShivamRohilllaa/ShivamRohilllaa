@@ -8,7 +8,9 @@
 ![](https://komarev.com/ghpvc/?username=ShivamRohilllaa&color=blueviolet)
 
 ### Reach Me :-
-[![linkedin (3)](https://user-images.githubusercontent.com/59178005/120276459-5598de80-c2d0-11eb-866b-5d3edc680206.png)](https://www.linkedin.com/in/shivamrohillaa/) &nbsp;  [![world-wide-web (2)](https://user-images.githubusercontent.com/59178005/120277162-54b47c80-c2d1-11eb-89ae-fb08e2f0146c.png)](https://shivamrohilla.herokuapp.com/) &nbsp;  [![blog (1)](https://user-images.githubusercontent.com/59178005/120277587-ddcbb380-c2d1-11eb-8c0b-db6446e9d38b.png)](https://dev.to/shivamrohilllaa)
+[![linkedin (3)](https://user-images.githubusercontent.com/59178005/120276459-5598de80-c2d0-11eb-866b-5d3edc680206.png)](https://www.linkedin.com/in/shivamrohillaa/) &nbsp;  [![world-wide-web (2)](https://user-images.githubusercontent.com/59178005/120277162-54b47c80-c2d1-11eb-89ae-fb08e2f0146c.png)](https://shivamrohilla.herokuapp.com/) &nbsp;  [![blog (1)](https://user-images.githubusercontent.com/59178005/120277587-ddcbb380-c2d1-11eb-8c0b-db6446e9d38b.png)](https://dev.to/shivamrohilllaa) &nbsp; <a href="https://dev.to/shivamrohilllaa">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shivam Rohilla's DEV Community Profile" height="30" width="30">
+</a>
 
 ### My Skills 🧰
 
