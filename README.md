@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Shivam Rohilla](https://webdevcodes.com/) :man_technologist:
+# [Hi, I am Shivam Rohilla](https://webdevcodes.com/) :man_technologist:
 
 ![Blue and White Architect LinkedIn Banner (3)](https://user-images.githubusercontent.com/59178005/120303534-8e46b100-c2ec-11eb-91ac-6b48e6c5cece.png)
 
