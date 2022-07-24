@@ -18,7 +18,7 @@
 
 - My primary coding language: Python
 - Web Backend Framework:- Django, DjangoRestFramework
-- Passionate for learning & exploring new Tech. I write [Tech and Fitness Blogs](https://www.highlifedoor.com/).
+- Passionate for learning & exploring new Tech.
 - Read my all technical blogs related to Python & Django on [Webdevcodes](https://webdevcodes.com/).  
 - I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
 
