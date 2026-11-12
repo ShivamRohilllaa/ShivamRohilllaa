@@ -1,34 +1,72 @@
-# [Hi, I am Shivam Rohilla](https://webdevcodes.com/) :man_technologist:
+<h1 align="center">Hi, I'm Shivam Rohilla 👋</h1>
 
-![Blue and White Architect LinkedIn Banner (3)](https://user-images.githubusercontent.com/59178005/120303534-8e46b100-c2ec-11eb-91ac-6b48e6c5cece.png)
+<p align="center">
+  <strong>Senior Software Engineer · Indie App Builder</strong><br>
+  Python backends, AI products, and native Mac apps.<br>
+  Based in New Delhi, India.
+</p>
 
-## Trophies:-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShivamRohilllaa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://shivamrohilla.xyz/">Portfolio</a> ·
+  <a href="https://buildmeai.co/">My Apps / BuildMeAI</a> ·
+  <a href="https://www.linkedin.com/in/shivamrohillaa/">LinkedIn</a> ·
+  <a href="https://dev.to/shivamrohilla">DEV</a> ·
+  <a href="mailto:shivamrohillaa@gmail.com">Email</a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=ShivamRohilllaa&color=blueviolet)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&amp;logo=swift&amp;logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&amp;logo=swift&amp;logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
+</p>
 
-### Reach Me :-
-[![linkedin (3)](https://user-images.githubusercontent.com/59178005/120276459-5598de80-c2d0-11eb-866b-5d3edc680206.png)](https://www.linkedin.com/in/shivamrohillaa/) &nbsp;  [![world-wide-web (2)](https://user-images.githubusercontent.com/59178005/120277162-54b47c80-c2d1-11eb-89ae-fb08e2f0146c.png)](https://shivamrohilla.herokuapp.com/) &nbsp;  [![blog (1)](https://user-images.githubusercontent.com/59178005/120277587-ddcbb380-c2d1-11eb-8c0b-db6446e9d38b.png)](https://webdevcodes.com/) &nbsp; <a href="https://dev.to/shivamrohilllaa">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shivam Rohilla's DEV Community Profile" height="30" width="30">
-</a>
+---
 
-### My Skills 🧰
+I'm a **Senior Software Engineer at Accenture** with 5+ years of experience building backends, APIs, and production systems. Python is my foundation; lately, I'm also building native Mac apps with Swift and SwiftUI.
 
-![html-5 (1)](https://user-images.githubusercontent.com/59178005/120279529-3308c480-c2d4-11eb-866c-605f147c474a.png) &nbsp;    ![css (1)](https://user-images.githubusercontent.com/59178005/120279542-3603b500-c2d4-11eb-8121-b870b4034fe5.png)  &nbsp;   ![javascript (1)](https://user-images.githubusercontent.com/59178005/120279558-38fea580-c2d4-11eb-8105-882ab63672ff.png)  &nbsp;  ![python (2)](https://user-images.githubusercontent.com/59178005/120279573-3bf99600-c2d4-11eb-94b9-ea3ce8a93a26.png) &nbsp;  ![icons8-django-32 (2)](https://user-images.githubusercontent.com/59178005/120279586-4025b380-c2d4-11eb-85e4-918eaa313789.png)  &nbsp;  ![icons8-php-logo-32](https://user-images.githubusercontent.com/59178005/120279623-49af1b80-c2d4-11eb-9b96-c69a11c3136a.png) &nbsp;   ![icons8-rest-api-32](https://user-images.githubusercontent.com/59178005/120279628-4c117580-c2d4-11eb-94c7-39a8332dccbc.png)  &nbsp;  ![icons8-postgresql-32](https://user-images.githubusercontent.com/59178005/120279644-4e73cf80-c2d4-11eb-8c60-2705698ce5a9.png)  &nbsp; ![icons8-amazon-web-services-32](https://user-images.githubusercontent.com/59178005/120279696-621f3600-c2d4-11eb-9e4d-433b9d5a42fe.png)
+I created **[BuildMeAI](https://buildmeai.co/)** as a home for my apps, experiments, and creator guides. I enjoy taking a problem from the first idea through the backend, interface, and release—and sharing what I learn along the way.
 
-- My primary coding language: Python
-- Web Backend Framework:- Django, DjangoRestFramework
-- Passionate for learning & exploring new Tech.
-- Read my all technical blogs related to Python & Django on [pythondjangogeek](https://pythondjangogeek.com/).  
-- I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
+### What I'm building
 
-## My Github Stats
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamRohilllaa&show_icons=true&theme=radical)
+| Product | What it does |
+| --- | --- |
+| **[Findermax](https://buildmeai.co/findermax)** | Mac App Store file organizer with document search, project spaces, duplicate review, and an encrypted vault. |
+| **[Zuno](https://buildmeai.co/zuno)** | A searchable library for Mac files, with project organization, reviewed cleanup, and encrypted copies. |
+| **[Aster](https://buildmeai.co/aster)** | Native macOS storage explorer with a visual disk map, large-file search, and cleanup you review. [Source code ↗](https://github.com/ShivamRohilllaa/aster) |
+| **[Judiro AI](https://judiro.com/)** | AI-assisted drafting, legal research, and a professional community for Indian lawyers. |
+| **[Jelup](https://jelup.app/)** | A social app for finding nearby activities, making plans, and meeting people in real life. |
 
+### My toolkit
 
-# Most Starred Repo's:-
+| Area | Technologies |
+| --- | --- |
+| Backend & APIs | Python, Django, Django REST Framework, FastAPI |
+| Data & background jobs | PostgreSQL, MySQL, Redis, Celery |
+| Cloud & delivery | AWS, Docker, Jenkins, CI/CD |
+| Native & mobile | Swift, SwiftUI, AppKit, Flutter |
+| Web | JavaScript, HTML, CSS, Tailwind CSS |
+| AI & automation | LLM API integrations, LangChain, scripting, webhooks |
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamRohilllaa&repo=E-learning-Django-)](https://github.com/ShivamRohilllaa/E-learning-Django-) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivamRohilllaa&repo=tshirt-store)](https://github.com/ShivamRohilllaa/tshirt-store)
+### Engineering experience
 
+- **Accenture** — Senior Software Engineer.
+- **NetCom Learning** — Previously led backend engineering for learning platforms, working on API architecture, database performance, background processing, and deployment pipelines.
+- **KiwiTech** — Built Python APIs, integrated services, and delivered application features.
 
+### Open-source work
 
+- **[E-learning Django](https://github.com/ShivamRohilllaa/E-learning-Django-)** — Course purchases, payments, certificates, and an admin dashboard.
+- **[Django + Redis](https://github.com/ShivamRohilllaa/django-redis)** — An example of adding Redis to a Django application.
+- **[Django Import / Export](https://github.com/ShivamRohilllaa/django-import-export)** — Examples of importing and exporting application data.
+
+### Writing & sharing
+
+I write about Python, Django, and the experience of building and releasing apps on **[DEV Community](https://dev.to/shivamrohilla)**. I also share projects and practical creator guides through **[BuildMeAI](https://buildmeai.co/)**.
+
+### Let's connect
+
+Interested in backend engineering, a useful app, or a workflow worth automating? Reach me on **[LinkedIn](https://www.linkedin.com/in/shivamrohillaa/)** or **[email](mailto:shivamrohillaa@gmail.com)**.
