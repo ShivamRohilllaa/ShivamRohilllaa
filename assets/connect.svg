@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-labelledby="title">
+<title id="title">Have a useful problem? Let's build something.</title>
+<rect width="1200" height="90" rx="16" fill="#101925"/>
+<path d="M28 34v22m-11-11h22" stroke="#80baff" stroke-width="2"/>
+<text x="55" y="53" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#e3edf8" font-weight="600">Have a useful problem? Let's build something.</text>
+<text x="1155" y="51" text-anchor="end" font-family="Menlo,Consolas,monospace" font-size="13" fill="#80baff">SAY HELLO ↗</text>
+</svg>

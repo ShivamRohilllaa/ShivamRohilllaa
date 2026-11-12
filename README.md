@@ -1,72 +1,93 @@
-<h1 align="center">Hi, I'm Shivam Rohilla 👋</h1>
-
 <p align="center">
-  <strong>Senior Software Engineer · Indie App Builder</strong><br>
-  Python backends, AI products, and native Mac apps.<br>
-  Based in New Delhi, India.
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/hero-mobile.svg">
+    <img src="./assets/hero.svg" width="100%" alt="Shivam Rohilla — from backend systems to apps you can use. Python, Swift, and AI. Building at BuildMeAI, from New Delhi.">
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://shivamrohilla.xyz/">Portfolio</a> ·
-  <a href="https://buildmeai.co/">My Apps / BuildMeAI</a> ·
-  <a href="https://www.linkedin.com/in/shivamrohillaa/">LinkedIn</a> ·
-  <a href="https://dev.to/shivamrohilla">DEV</a> ·
-  <a href="mailto:shivamrohillaa@gmail.com">Email</a>
+  <a href="https://shivamrohilla.xyz/"><strong>PORTFOLIO&nbsp;↗</strong></a>
+  &nbsp;&nbsp;
+  <a href="https://buildmeai.co/"><strong>APPS&nbsp;↗</strong></a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/shivamrohilla"><strong>WRITING&nbsp;↗</strong></a>
+  &nbsp;&nbsp;
+  <a href="mailto:shivamrohillaa@gmail.com"><strong>EMAIL&nbsp;↗</strong></a>
 </p>
+
+<br>
+
+I’m **Shivam**, a software engineer and independent app builder. My foundation is **5+ years of Python, backend engineering, and production systems**. These days, that work also takes the shape of native Mac apps, AI products, and tools for everyday problems.
+
+**[BuildMeAI](https://buildmeai.co/)** is where my products live. I work across the API, the interface, and the release—and write about what I learn along the way.
+
+<br>
+
+## 01 / Selected builds
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&amp;logo=swift&amp;logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&amp;logo=swift&amp;logoColor=white" alt="SwiftUI">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
+  <a href="https://buildmeai.co/findermax"><img src="./assets/findermax.svg" width="400" alt="Findermax — Mac App Store file organizer with document search, projects, duplicate review, and encrypted copies."></a>
+  <a href="https://buildmeai.co/zuno"><img src="./assets/zuno.svg" width="400" alt="Zuno — a searchable Mac file library with projects, reviewed cleanup, and an encrypted vault."></a>
+</p>
+<p align="center">
+  <a href="https://buildmeai.co/aster"><img src="./assets/aster.svg" width="400" alt="Aster — native Mac storage explorer with visual storage maps and cleanup you review."></a>
+  <a href="https://judiro.com/"><img src="./assets/judiro.svg" width="400" alt="Judiro AI — drafting, legal research, and a professional community for Indian lawyers."></a>
+</p>
+<p align="center">
+  <a href="https://jelup.app/"><img src="./assets/jelup.svg" width="400" alt="Jelup — discover nearby activities, make plans, and meet people in real life."></a>
+  <a href="https://buildmeai.co/"><img src="./assets/buildmeai.svg" width="400" alt="BuildMeAI — explore my apps, experiments, and creator guides."></a>
 </p>
 
----
+<br>
 
-I'm a **Senior Software Engineer at Accenture** with 5+ years of experience building backends, APIs, and production systems. Python is my foundation; lately, I'm also building native Mac apps with Swift and SwiftUI.
+## 02 / Behind the builds
 
-I created **[BuildMeAI](https://buildmeai.co/)** as a home for my apps, experiments, and creator guides. I enjoy taking a problem from the first idea through the backend, interface, and release—and sharing what I learn along the way.
+```text
+BACKEND & APIs      Python · Django · DRF · FastAPI
+DATA & JOBS         PostgreSQL · Redis · Celery
+NATIVE APPS         Swift · SwiftUI · AppKit
+CLOUD & DELIVERY    AWS · Docker · Jenkins · CI/CD
+AI & AUTOMATION     LLM integrations · LangChain · Webhooks
+```
 
-### What I'm building
+<details>
+<summary><strong>More tools & engineering background</strong></summary>
 
-| Product | What it does |
-| --- | --- |
-| **[Findermax](https://buildmeai.co/findermax)** | Mac App Store file organizer with document search, project spaces, duplicate review, and an encrypted vault. |
-| **[Zuno](https://buildmeai.co/zuno)** | A searchable library for Mac files, with project organization, reviewed cleanup, and encrypted copies. |
-| **[Aster](https://buildmeai.co/aster)** | Native macOS storage explorer with a visual disk map, large-file search, and cleanup you review. [Source code ↗](https://github.com/ShivamRohilllaa/aster) |
-| **[Judiro AI](https://judiro.com/)** | AI-assisted drafting, legal research, and a professional community for Indian lawyers. |
-| **[Jelup](https://jelup.app/)** | A social app for finding nearby activities, making plans, and meeting people in real life. |
+<br>
 
-### My toolkit
+- **Web & mobile:** JavaScript, HTML, CSS, Tailwind CSS, and Flutter.
+- **Data:** PostgreSQL and MySQL, with Redis for caching and Celery for background work.
+- **Experience:** Previously led backend engineering at NetCom Learning and built Python applications at KiwiTech.
+- **Interests:** API architecture, database performance, native interfaces, and getting useful software into people’s hands.
 
-| Area | Technologies |
-| --- | --- |
-| Backend & APIs | Python, Django, Django REST Framework, FastAPI |
-| Data & background jobs | PostgreSQL, MySQL, Redis, Celery |
-| Cloud & delivery | AWS, Docker, Jenkins, CI/CD |
-| Native & mobile | Swift, SwiftUI, AppKit, Flutter |
-| Web | JavaScript, HTML, CSS, Tailwind CSS |
-| AI & automation | LLM API integrations, LangChain, scripting, webhooks |
+</details>
 
-### Engineering experience
+<br>
 
-- **Accenture** — Senior Software Engineer.
-- **NetCom Learning** — Previously led backend engineering for learning platforms, working on API architecture, database performance, background processing, and deployment pipelines.
-- **KiwiTech** — Built Python APIs, integrated services, and delivered application features.
+## 03 / Open-source shelf
 
-### Open-source work
+| Project | Inside the repository |
+| :--- | :--- |
+| **[Aster ↗](https://github.com/ShivamRohilllaa/aster)** | Swift + SwiftUI storage explorer, interactive disk maps, and reviewed cleanup. |
+| **[E-learning Django ↗](https://github.com/ShivamRohilllaa/E-learning-Django-)** | Course purchases, payments, certificates, and an admin dashboard. |
+| **[Django + Redis ↗](https://github.com/ShivamRohilllaa/django-redis)** | A practical example of adding Redis to a Django application. |
+| **[Django Import / Export ↗](https://github.com/ShivamRohilllaa/django-import-export)** | Examples of importing and exporting application data. |
 
-- **[E-learning Django](https://github.com/ShivamRohilllaa/E-learning-Django-)** — Course purchases, payments, certificates, and an admin dashboard.
-- **[Django + Redis](https://github.com/ShivamRohilllaa/django-redis)** — An example of adding Redis to a Django application.
-- **[Django Import / Export](https://github.com/ShivamRohilllaa/django-import-export)** — Examples of importing and exporting application data.
+<br>
 
-### Writing & sharing
+## 04 / Build. Share. Repeat.
 
-I write about Python, Django, and the experience of building and releasing apps on **[DEV Community](https://dev.to/shivamrohilla)**. I also share projects and practical creator guides through **[BuildMeAI](https://buildmeai.co/)**.
+I write about **Python, Django, and building apps**—from implementation notes to what happens after a release.
 
-### Let's connect
+**[Read on DEV ↗](https://dev.to/shivamrohilla)** &nbsp; · &nbsp; **[Explore BuildMeAI ↗](https://buildmeai.co/)** &nbsp; · &nbsp; **[Follow the studio ↗](https://www.instagram.com/buildmeai/)**
 
-Interested in backend engineering, a useful app, or a workflow worth automating? Reach me on **[LinkedIn](https://www.linkedin.com/in/shivamrohillaa/)** or **[email](mailto:shivamrohillaa@gmail.com)**.
+<br>
+
+<a href="mailto:shivamrohillaa@gmail.com">
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/connect-mobile.svg">
+    <img src="./assets/connect.svg" width="100%" alt="Have a useful problem? Let's build something. Email Shivam at shivamrohillaa@gmail.com.">
+  </picture>
+</a>
+
+<p align="center"><sub>Made in New Delhi. Built with curiosity.</sub></p>

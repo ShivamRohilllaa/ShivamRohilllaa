@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="108" viewBox="0 0 400 108" role="img" aria-labelledby="title">
+<title id="title">Have a useful problem? Let's build something. Say hello.</title>
+<rect width="400" height="108" rx="14" fill="#101925"/>
+<text x="22" y="31" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#e3edf8" font-weight="600">Have a useful problem?</text>
+<text x="22" y="55" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#e3edf8" font-weight="600">Let's build something.</text>
+<text x="22" y="85" font-family="Menlo,Consolas,monospace" font-size="10" fill="#80baff">SAY HELLO ↗</text>
+</svg>
